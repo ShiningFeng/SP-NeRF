@@ -1,0 +1,58 @@
+# === Python Cache Files ===
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# === Jupyter Notebook Checkpoints ===
+.ipynb_checkpoints/
+
+# === Virtual Environment ===
+.env/
+.venv/
+env/
+venv/
+
+# === PyTorch / Checkpoint Files ===
+*.pt
+*.pth
+*.ckpt
+*.npz
+
+# === TensorBoard Logs ===
+runs/
+logs/
+lightning_logs/
+
+# === Model Outputs / Visualizations ===
+output/
+output_*/
+output_visual/
+visualization/output/
+*.png
+*.jpg
+
+# === Dataset Cache / Temp Files ===
+*.zip
+*.tar.gz
+*.h5
+*.npz
+*.npy
+*.tfrecord
+dataset/cache/
+dataset/*/DenseDepth_*/
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === Editor Configs ===
+.vscode/
+.idea/
+
+# === MicMac Intermediate Files ===
+MM-*/          
+Ori-*/         
+MEC-*/         
+Tmp-MM/

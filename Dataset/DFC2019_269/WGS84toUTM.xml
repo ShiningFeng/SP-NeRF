@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<SystemeCoord>
+    <BSC>
+        <TypeCoord>eTC_Proj4</TypeCoord>
+        <AuxStr>+proj=utm +zone=17 +ellps=WGS84 +datum=WGS84 +units=m +no_defs</AuxStr>
+    </BSC>
+</SystemeCoord>
